@@ -10,6 +10,7 @@ The Thesis can be found here: https://findit.dtu.dk/en/catalog/6141d49bd9001d016
 - Data files: coal_prices.xlsx, merchant_prices.xlsx and ts_output_clean.csv
 - Data is processed in the files: clean_data_NEW.py, parameters_NEW.py and parameters_Scenarios.py
 
+Due to data sharing regulations, no real data is given. The data files are in correct format for direct use with the code, but includes zeros as entry. For test runs, please fill in random values. 
 Parameters are example values.
 
 - Economic dispatch model: OperationalV5.py
