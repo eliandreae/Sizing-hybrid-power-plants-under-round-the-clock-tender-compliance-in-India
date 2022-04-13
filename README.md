@@ -21,3 +21,5 @@ Parameters are example values.
 - Stochastic investment model with 10 scenarios: Stochastic_S10.py
 - Sensitivity analyses: Sensitivity_XX.py
 - Visualisation: plots_XX.py
+
+DOI: 10.5281/zenodo.6457041
